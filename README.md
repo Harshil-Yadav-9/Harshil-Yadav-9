@@ -82,13 +82,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshil-Yadav-9&bg_color=ffffff&color=2EA043&line=2EA043&point=000000&area=true&hide_border=false&border_color=d0d7de&border_radius=12" width="95%"/>
 </p>
 
-<h3 align="center">Contribution Grid — Bomberman</h3>
+<h3 align="center">Contribution Grid</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshil-Yadav-9/Harshil-Yadav-9/output/bomberman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshil-Yadav-9/Harshil-Yadav-9/output/bomberman-contribution-graph.svg">
-    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Harshil-Yadav-9/Harshil-Yadav-9/output/bomberman-contribution-graph.svg" width="95%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshil-Yadav-9/Harshil-Yadav-9/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshil-Yadav-9/Harshil-Yadav-9/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harshil-Yadav-9/Harshil-Yadav-9/output/pacman-contribution-graph.svg" width="95%">
   </picture>
 </p>
 
@@ -99,5 +99,5 @@
 <h3 align="center">Reach Out</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshil-yadav-311523378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
