@@ -64,7 +64,7 @@
 </tr>
 <tr>
 <td><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1200,q_100,w_1200/v1/gcs/platform-data-goog/contentbuilder/GDG_Bevy_SocialSharingThumbnail_KFxxrrs.png" width="20"/>&nbsp; GDG Club, IIT Indore</td>
-<td>Volunteer</td>
+<td>Member</td>
 </tr>
 </table>
 
